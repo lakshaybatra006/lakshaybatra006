@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-lakshaybatra006-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lakshaybatra006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lakshay-batra-52b2a0287/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-2563EB?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://lakshaydev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio-2563EB?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://lakshaydev.vercel.app/)
 
 *Building intelligent products at the intersection of AI, full-stack engineering, and immersive user experiences.*
 
